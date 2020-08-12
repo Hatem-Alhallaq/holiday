@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e9142944-2647-47ce-bbb3-351790aaf317" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/filesystems.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/filesystems.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,6 +172,7 @@
       <workItem from="1596812690972" duration="5458000" />
       <workItem from="1597072903516" duration="5625000" />
       <workItem from="1597159290942" duration="2886000" />
+      <workItem from="1597235711850" duration="3712000" />
     </task>
     <servers />
   </component>
@@ -182,10 +180,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1596814560435">
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1597240527597">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1596814560435" />
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1597240527597" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1597235762096">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
