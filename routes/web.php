@@ -13,12 +13,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+//Route::get('/', function () {
+//    return view('welcome');
+//});
 //Route::get('voi', function () {
 //    return view('voi');
 //});
+Route::get("/",'HomeController@index');
 Route::get('voi','VoiController@index') ;
 
 
